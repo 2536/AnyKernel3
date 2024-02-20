@@ -1,10 +1,10 @@
 ### AnyKernel3 Ramdisk Mod Script
-## osm0sis @ xda-developers
+## osm0sis @ 酷安-心灯
 
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=ExampleKernel by osm0sis @ xda-developers
+kernel.string=ExampleKernel by osm0sis @酷安-心灯
 do.devicecheck=1
 do.modules=0
 do.systemless=1
