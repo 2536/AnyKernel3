@@ -1,5 +1,5 @@
 ### AnyKernel methods (DO NOT CHANGE)
-## osm0sis @ 酷安-心灯
+## 2536 @ 酷安-心灯
 
 [ "$OUTFD" ] || OUTFD=$1;
 
