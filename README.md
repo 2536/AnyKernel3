@@ -1,7 +1,7 @@
 ----------------------------------------------------------------------------------
 AnyKernel3 - Flashable Zip Template for Kernel Releases with Ramdisk Modifications
 ----------------------------------------------------------------------------------
-### by osm0sis @ 酷安-心灯 ###
+### by  @ 酷安-心灯 ###
 
 "AnyKernel is a template for an update.zip that can apply any kernel to any ROM, regardless of ramdisk." - Koush
 
