@@ -1,6 +1,6 @@
 #!/sbin/sh
 # AnyKernel3 Backend (DO NOT CHANGE)
-# osm0sis @ xda-developers
+#  2536 @ 酷安-心灯
 
 export OUTFD=$2;
 export ZIPFILE="$3";
