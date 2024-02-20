@@ -1,5 +1,5 @@
 ### AnyKernel methods (DO NOT CHANGE)
-## osm0sis @ xda-developers
+## osm0sis @ 酷安-心灯
 
 [ "$OUTFD" ] || OUTFD=$1;
 
